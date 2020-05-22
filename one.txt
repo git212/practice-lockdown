@@ -5,4 +5,5 @@ jai jagannatha
 git is light weight
 git is good
 git is distributed
+git is fast
 
